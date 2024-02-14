@@ -45,6 +45,5 @@ Temel kurulum aşamalarını başarıyla bitirdiniz, son olarak yapmanız gereke
 ## Dikkat ⚠️
 > Eğer son dakika sistemini aktif etmiş iseniz kanal veya diğer özelliklerini değiştirmeden ilk öncelikle sistemi de-aktif (**Devre dışı**) etmeniz gerekiyor, bunun sebebi oluşabilecek bug sorunlarının önüne geçmektir.
 
-# Hala kurulumu yapamadın mı? dert değil!
-Eğer Haberler'i kurmakta sıkıntı yaşıyorsan topluluk sunucumuza gelerek bu sorunlarına hızlıca bir çözüm bulabiliriz.
-[Sunucuya katılmak için buraya tıkla.](https://discord.gg/r3AdKRY9Ha)
+# Bağlantılar
+[Topluluk sunucumuz](https://discord.gg/r3AdKRY9Ha) | [Oy ver](https://bit.ly/oyver) | [Github](https://github.com/haberlerbot)
